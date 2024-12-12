@@ -12,12 +12,13 @@
 ## Project Overview
 This project provides a detailed analysis of the Balance of Payment and economic performance of five European countries (Albania, Austria, Belgium, France and Germany) through their Current Account, Capital Account, and Financial Account data. This analysis highlights key trends such as trade balances, capital inflows, and investment dynamics across the selected countries.
 ## Tools Used
+- Google Sheets: For Data Extraction
 - Excel: For Data Preparation and Tranformation
 - Microsoft SQL Server: For Querying
 - Power Bi: For Visualization
 ## Steps Taken
 ### Data Extraction
-- The developers extracted the Balance of Payment 
+- The developers extracted the Balance of Payment dataset from the IMF Website using Google Sheets 
 ### Data Transformation:
 - Transposed the original dataset for better usability.
 - Checked for duplicates and standardized the data using SQL.
