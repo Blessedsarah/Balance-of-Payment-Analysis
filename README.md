@@ -1,5 +1,10 @@
 # Balance-of-Payment-Analysis
+
 ## Countributors
+- [Blessedsarah Omolola](https://github.com/Blessedsarah)
+- [Damilare Adefowope](https://github.com/EmmanetD)
+- [Diseph Dum-Igoni](https://github.com/disephD)
+  
 ## Table of Contents
 ## Project Overview
 This project provides a detailed analysis of the Balance of Payment and economic performance of five European countries (Albania, Austria, Belgium, France and Germany) through their Current Account, Capital Account, and Financial Account data. This analysis highlights key trends such as trade balances, capital inflows, and investment dynamics across the selected countries.
