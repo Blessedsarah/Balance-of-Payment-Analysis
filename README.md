@@ -11,10 +11,10 @@
   
 ## Table of Contents
 - [project Overview](https://github.com/Blessedsarah/Balance-of-Payment-Analysis/blob/main/README.md#project-overview)
-[Tools Used](https://github.com/Blessedsarah/Balance-of-Payment-Analysis/blob/main/README.md#tools-used)
-[Steps Taken](https://github.com/Blessedsarah/Balance-of-Payment-Analysis/blob/main/README.md#steps-taken)
-[Key Insights](https://github.com/Blessedsarah/Balance-of-Payment-Analysis/blob/main/README.md#key-insights)
-[Recommendation](https://github.com/Blessedsarah/Balance-of-Payment-Analysis/blob/main/README.md#recommendations)
+- [Tools Used](https://github.com/Blessedsarah/Balance-of-Payment-Analysis/blob/main/README.md#tools-used)
+- [Steps Taken](https://github.com/Blessedsarah/Balance-of-Payment-Analysis/blob/main/README.md#steps-taken)
+- [Key Insights](https://github.com/Blessedsarah/Balance-of-Payment-Analysis/blob/main/README.md#key-insights)
+- [Recommendation](https://github.com/Blessedsarah/Balance-of-Payment-Analysis/blob/main/README.md#recommendations)
 ## Project Overview
 The Balance of Payments (BoP) is a financial statement that summarizes a country's economic transactions with the rest of the world over a specific period. It consists of three main components:
 - **Current Account:** Tracks trade in goods and services, income from investments, and remittances.
