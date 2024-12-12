@@ -7,7 +7,7 @@
 - [Diseph Dum-Igoni](https://github.com/disephD)
 #### Backend Developers:
 - [Aliu Adeniji](https://www.github.com/adenijialiuadeyemi)
-- [Muaadh Adeleye]
+- [Muaadh Adeleye](https://github.com/muaadh-adeniyi)
   
 ## Table of Contents
 - [Project Overview](https://github.com/Blessedsarah/Balance-of-Payment-Analysis/blob/main/README.md#project-overview)
