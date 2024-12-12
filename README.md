@@ -5,7 +5,7 @@
 - [Blessedsarah Omolola](https://github.com/Blessedsarah)
 - [Damilare Adefowope](https://github.com/EmmanetD)
 - [Diseph Dum-Igoni](https://github.com/disephD)
-#### Developers:
+#### Backend Developers:
 - [Aliu Adeniji](https://www.github.com/adenijialiuadeyemi)
   
 ## Table of Contents
@@ -18,7 +18,7 @@ This project provides a detailed analysis of the Balance of Payment and economic
 - Power Bi: For Visualization
 ## Steps Taken
 ### Data Extraction
-- The developers extracted the Balance of Payment dataset from the IMF Website using Google Sheets 
+- The developers extracted the Balance of Payment dataset from the [IMF Website](https://data.imf.org/regular.aspx?key=62805740) using Google Sheets 
 ### Data Transformation:
 - Transposed the original dataset for better usability.
 - Checked for duplicates and standardized the data using SQL.
