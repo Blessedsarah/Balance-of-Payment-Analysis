@@ -9,8 +9,18 @@
 - [Aliu Adeniji](https://www.github.com/adenijialiuadeyemi)
   
 ## Table of Contents
+[project Overview]()
+[Tools Used]()
+[Steps Taken]()
+[Key Insights]()
+[Recommendation]()
 ## Project Overview
-This project provides a detailed analysis of the Balance of Payment and economic performance of five European countries (Albania, Austria, Belgium, France and Germany) through their Current Account, Capital Account, and Financial Account data. This analysis highlights key trends such as trade balances, capital inflows, and investment dynamics across the selected countries.
+The Balance of Payments (BoP) is a financial statement that summarizes a country's economic transactions with the rest of the world over a specific period. It consists of three main components:
+- **Current Account:** Tracks trade in goods and services, income from investments, and remittances.
+- **Capital Account:** Records transfers of financial assets, such as investments or grants, between countries.
+- **Financial Account:** Captures changes in ownership of international assets, including foreign investments and reserves.
+
+This project provides a comprehensive analysis of the Balance of Payments and the economic performance of five European countries - Albania, Austria, Belgium, France, and Germany. Using these components, the project highlights key trends such as trade balances, capital inflows, and investment dynamics, offering valuable insights into the economic activities of these nations.
 ## Tools Used
 - Google Sheets: For Data Extraction
 - Excel: For Data Preparation and Tranformation
