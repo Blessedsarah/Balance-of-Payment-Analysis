@@ -10,7 +10,7 @@
 - [Muaadh Adeleye]
   
 ## Table of Contents
-- [project Overview](https://github.com/Blessedsarah/Balance-of-Payment-Analysis/blob/main/README.md#project-overview)
+- [Project Overview](https://github.com/Blessedsarah/Balance-of-Payment-Analysis/blob/main/README.md#project-overview)
 - [Tools Used](https://github.com/Blessedsarah/Balance-of-Payment-Analysis/blob/main/README.md#tools-used)
 - [Steps Taken](https://github.com/Blessedsarah/Balance-of-Payment-Analysis/blob/main/README.md#steps-taken)
 - [Key Insights](https://github.com/Blessedsarah/Balance-of-Payment-Analysis/blob/main/README.md#key-insights)
