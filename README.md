@@ -35,7 +35,7 @@ This project provides a detailed analysis of the Balance of Payment and economic
 - Current Account Surplus (Deficit in 2022). The primary contributor to the surplus is the balance of goods and services, where exports exceed imports. In 2022, the deficit in the balance of goods and services led to a current account deficit, possibly due to increased imports or a decline in export performance.
 - Financial Account Surplus (Deficit in 2022). The surplus arises from positive portfolio investments and other investments, indicating a net inflow of financial resources. In 2022, there was a deficit caused by negative other investments, meaning outflows in this segment exceeded inflows.
 ### France
-![image](https://github.com/user-attachments/assets/6bdfebfe-0cbc-42b5-ac96-eb4b32eb14a1)
+![image](https://github.com/user-attachments/assets/2266848f-51ba-4568-b1f6-a740559040e6)
 - France has consistently experienced a Capital Account surplus, with a notable increase in 2021. While there was a slight dip in 2016, the overall trend shows a positive balance. This surplus indicates that the country has been attracting more capital inflows than outflows.
 - Current Account deficit, with some fluctuations over the years. This indicates that the country's imports have exceeded its exports. The deficit is primarily caused by a negative balance of goods and services and secondary income. While primary income (e.g., remittances, wages) shows a positive balance, it's not enough to offset the deficit.
 - Financial Account Deficit: This means that the country's financial outflows have exceeded its inflows. The deficit is primarily driven by negative contributions from Portfolio Investment and Other Investment.
