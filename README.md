@@ -1,9 +1,12 @@
 # Balance-of-Payment-Analysis
 
 ## Countributors
+#### Data Analysts
 - [Blessedsarah Omolola](https://github.com/Blessedsarah)
 - [Damilare Adefowope](https://github.com/EmmanetD)
 - [Diseph Dum-Igoni](https://github.com/disephD)
+#### Developers:
+- [Aliu Adeniji](https://www.github.com/adenijialiuadeyemi)
   
 ## Table of Contents
 ## Project Overview
@@ -13,6 +16,8 @@ This project provides a detailed analysis of the Balance of Payment and economic
 - Microsoft SQL Server: For Querying
 - Power Bi: For Visualization
 ## Steps Taken
+### Data Extraction
+- The developers extracted the Balance of Payment 
 ### Data Transformation:
 - Transposed the original dataset for better usability.
 - Checked for duplicates and standardized the data using SQL.
@@ -49,6 +54,11 @@ This project provides a detailed analysis of the Balance of Payment and economic
 - Germany experienced a deficit in her Capital Account except in 2010 and 2014 where there was a slight increase in surplus. This indicates that the country has had more capital outflows than inflows.
 - Current Account Surplus: This indicates that the country's exports have exceeded its imports. The surplus is primarily driven by positive balances from goods and services. The primary income is also able to offset the negative balance from secondary income.
 -  Financial Account surplus. This means that the country's financial inflows have exceeded its outflows. All investment accounts showed consistent positive balances, with Portfolio Investment being the major contributor to the surplus. This was sufficient to offset the fewer occurring deficits.
+### Comparative Analysis
+![image](https://github.com/user-attachments/assets/764ffaed-adac-49c8-9918-27e616023f00)
+- The capital account balances indicate that France has had surplus years, Germany has had deficit years, while Albania has maintained a relatively stable surplus.
+- The current account balances indicate that Germany has consistently had a current account surplus, reflecting its strong export-oriented economy. Austria has also had surplus years. Meanwhile, Albania has had deficit years, and Belgium and France have experienced fluctuating current account balances.
+- The financial account balances indicate that Germany has consistently had a financial account surplus, reflecting strong foreign investment inflows. Austria has also had surplus years, while the other countries have experienced fluctuating financial account balances.
 ## Recommendations
 - Countries facing capital account deficits should implement policies to attract foreign investment, improve the investment climate, and reduce capital outflows. Even countries with consistent current account surpluses should prioritize fostering a business-friendly environment, implementing sound economic policies, and attracting foreign direct investment.
 - Countries with persistent current account deficits, like Albania, Belgium, and France, should implement strategies to improve export competitiveness, diversify their export base, and control imports. These strategies could involve investments in education and training, promoting innovation, and implementing supportive trade policies. 
