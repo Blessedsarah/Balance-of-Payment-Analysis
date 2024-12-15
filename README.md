@@ -26,7 +26,7 @@ This project provides a comprehensive analysis of the Balance of Payments and th
 - Google Sheets: For Data Extraction
 - Excel: For Data Preparation and Tranformation
 - Microsoft SQL Server: For Querying
-- Power Bi: For Visualization
+- Power BI: For Visualization
 ## Steps Taken
 ### Data Extraction
 - The developers extracted the Balance of Payment dataset from the [IMF Website](https://data.imf.org/regular.aspx?key=62805740) using Google Sheets 
@@ -65,7 +65,7 @@ This project provides a comprehensive analysis of the Balance of Payments and th
 ![image](https://github.com/user-attachments/assets/92dd4dac-0be4-4819-9f80-3b3737103090)
 - Germany experienced a deficit in her Capital Account except in 2010 and 2014 where there was a slight increase in surplus. This indicates that the country has had more capital outflows than inflows.
 - Current Account Surplus: This indicates that the country's exports have exceeded its imports. The surplus is primarily driven by positive balances from goods and services. The primary income is also able to offset the negative balance from secondary income.
--  Financial Account surplus. This means that the country's financial inflows have exceeded its outflows. All investment accounts showed consistent positive balances, with Portfolio Investment being the major contributor to the surplus. This was sufficient to offset the fewer occurring deficits.
+-  Financial Account surplus. This means that the country's financial inflows have exceeded its outflows. All investment accounts showed consistent positive balances, with Portfolio Investment being the major contributor to the surplus. This was sufficient to offset the fewer deficits arising from other years.
 ### Comparative Analysis
 ![image](https://github.com/user-attachments/assets/764ffaed-adac-49c8-9918-27e616023f00)
 - The capital account balances indicate that France has had surplus years, Germany has had deficit years, while Albania has maintained a relatively stable surplus.
@@ -74,5 +74,5 @@ This project provides a comprehensive analysis of the Balance of Payments and th
 ## Recommendations
 - Countries facing capital account deficits should implement policies to attract foreign investment, improve the investment climate, and reduce capital outflows. Even countries with consistent current account surpluses should prioritize fostering a business-friendly environment, implementing sound economic policies, and attracting foreign direct investment.
 - Countries with persistent current account deficits, like Albania, Belgium, and France, should implement strategies to improve export competitiveness, diversify their export base, and control imports. These strategies could involve investments in education and training, promoting innovation, and implementing supportive trade policies. 
-- Countries with strong financial account surpluses, like Germany, should implement policies to stimulate domestic investment and curb capital outflows. This could involve offering tax incentives, investing in infrastructure, and promoting domestic savings. For countries with financial account deficits, attracting foreign investment, ensuring financial stability, and managing debt levels are essential.
+- Countries with strong financial account surpluses, like Germany, should implement policies to stimulate domestic investment and curb capital outflows. This could involve offering tax incentives, investing in infrastructure, supporting SME growth, and promoting domestic savings. For countries with financial account deficits, attracting foreign investment, ensuring financial stability, and managing debt levels are essential.
   
